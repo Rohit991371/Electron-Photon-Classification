@@ -65,7 +65,4 @@ model.evaluate(X_test, y_test)
 
 Contributions are welcome! If you find issues or improvements, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
 
