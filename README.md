@@ -57,7 +57,6 @@ model.evaluate(X_test, y_test)
 
 ```
 .
-├── dataset/                # Contains the downloaded HDF5 dataset
 ├── notebooks/              # Jupyter Notebooks for training and evaluation
 ├── README.md               # Project documentation
 ```
